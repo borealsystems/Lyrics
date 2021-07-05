@@ -10,7 +10,7 @@ Just Give Me Words On Screens
 - hot keys for clearing output
 - hot keys for different parts of songs
 - inbuilt lyrics editor
-
+- optional CCLI support
 
 # Architecture Proposal
 
