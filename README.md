@@ -10,3 +10,10 @@ Just Give Me Words On Screens
 - hot keys for clearing output
 - hot keys for different parts of songs
 - inbuilt lyrics editor
+
+
+# Architecture Proposal
+
+JSON files for storing lyrics
+React for all UI and rendering?
+Electron app or React Native?
